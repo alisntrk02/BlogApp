@@ -1,0 +1,1 @@
+BlogApp is a fullstack web app built with React, Node.js, and Express. It lets users create, edit, and delete blog posts, and comment on others posts. Designed for easy blog sharing and interaction with a clean and dynamic interface.
